@@ -12,6 +12,9 @@
 	<!-- Widgetset default theme -->
 	<!-- This is relative to widgetset_directory/public -->	
 	<stylesheet src="phonegapwidget/styles.css"/>
+	
+	<!-- Apache Cordova version 1.7.0, a.k.a PhoneGap  -->
+	<script src="phonegapwidget/cordova-1.7.0.js"></script>
 
     <!--
      Uncomment the following to compile the widgetset for one browser only.
